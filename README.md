@@ -47,4 +47,32 @@ La ecuacion que modela nuestro crecimiento es:
  - *r* = tasa de crecimiento (0.15 mensual)
  - *t* = tiempo en meses
 
-   El **ROI** (return of investment) se calcula como 
+   El **ROI** (return of investment) se calcula como $ROI = \frac{Beneficio - Inversión}{Inversión} \times 100$
+
+## 🔧 Tecnologías Utilizadas
+### FrontEnd
+
+- **React,js** v18.2.0
+- *Material-UI para componentes
+- **TypeScript** para tipado est'atico
+
+### Backend
+- *Node.js* con Express
+- **MongoDB** como base de datos
+- *JWT* para autenticacion
+## 📝 Lista de Tareas Pendientes
+- [x] Implementar sistema de login
+- [x] Crear dashboard principal
+- [ ] añadir modulo de **calificaciones**
+- [ ] integrar sistema de *notificaciones*
+- [ ] desarrollar app movil
+- [ ] Implementar **analytics** avanzados
+
+## 🤝 Contribuir al Proyecto
+¿Quieres ayudar? ¡Genial! Sigue estos pasos:
+1. Haz un *fork* del repositorio
+2. Crea una rama para tu **feature*: git checkout -b nueva-funcionalidad
+3. realiza tus *cambios* y haz commit
+4. envia un **pull request**
+
+## 📧 Contacto y Soporte

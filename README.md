@@ -76,3 +76,9 @@ La ecuacion que modela nuestro crecimiento es:
 4. envia un **pull request**
 
 ## 📧 Contacto y Soporte
+- **Email: soporte@CotareloManage.es
+- **Slack**: [Únete a nuestro workspace](https://cotarelomanage.slack.com/)
+- **Documentacion**: docs.cotareloManage.es
+
+## 📜 Licencia
+Este proyecto está bajo licencia **MIT**. consulta el archivo 
